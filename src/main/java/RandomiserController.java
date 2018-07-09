@@ -20,10 +20,25 @@ public class RandomiserController {
             String result = randomiser.randomise();
 
             HashMap<String, Object> model = new HashMap();
-            model.put("things", result);
+            model.put("result", result);
+            model.put("template", "thing.vtl");
+            return new ModelAndView(model, "layout.vtl");
+        }, velocityTemplateEngine);
+
+        get("/two", (req, res) -> {
+
+            Randomiser randomiser = new Randomiser();
+
+            String result1 = randomiser.randomise();
+            String result2 = randomiser.randomise();
+
+            HashMap<String, Object> model = new HashMap();
+            model.put("result1", result1);
+            model.put("result2", result2);
             model.put("template", "things.vtl");
             return new ModelAndView(model, "layout.vtl");
         }, velocityTemplateEngine);
+
 
 
     }
