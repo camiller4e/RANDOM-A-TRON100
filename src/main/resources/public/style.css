@@ -10,3 +10,10 @@ h3 {
     padding-top: 250px;
     padding-left: 620px;
 }
+
+h1 {
+    font-size: 40px;
+    font-style: italic;
+    font-family: gill sans;
+    padding-left: 620px;
+}
