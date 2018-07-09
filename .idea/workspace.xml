@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ff716c17-cb50-4cf8-8204-d805ea27aff9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RandomiserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RandomiserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/layout.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/layout.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/things.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/things.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/RandomiserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/RandomiserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/thing.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/thing.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/things.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/things.vtl" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,7 +18,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="things.vtl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/public/things.vtl">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/things.vtl">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="43" selection-start-column="43" selection-end-column="43" />
@@ -29,7 +27,7 @@
         </entry>
       </file>
       <file leaf-file-name="thing.vtl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/public/thing.vtl">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/thing.vtl">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="31" selection-start-column="31" selection-end-column="31" />
@@ -63,8 +61,8 @@
       <file leaf-file-name="RandomiserController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/RandomiserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            <state relative-caret-position="340">
+              <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -181,6 +179,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/resources/public" />
     </key>
   </component>
@@ -347,12 +346,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3048276" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3048276" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -389,14 +388,14 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/RandomiserTest.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/things.vtl">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/things.vtl">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="43" selection-start-column="43" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/thing.vtl">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/thing.vtl">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="31" selection-start-column="31" selection-end-column="31" />
@@ -428,8 +427,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/RandomiserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        <state relative-caret-position="340">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
