@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff716c17-cb50-4cf8-8204-d805ea27aff9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/public/thing.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/thing.vtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/public/things.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/things.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,9 +33,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/public/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="Randomiser.java" pinned="false" current-in-tab="false">
@@ -58,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RandomiserController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RandomiserController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/RandomiserController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -102,6 +104,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/public/things.vtl" />
         <option value="$PROJECT_DIR$/src/main/java/RandomiserController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/layout.vtl" />
+        <option value="$PROJECT_DIR$/src/main/resources/public/style.css" />
       </list>
     </option>
   </component>
@@ -346,12 +349,12 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3048276" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3048276" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -381,9 +384,6 @@
           <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RandomiserTest.java">
       <provider selected="true" editor-type-id="text-editor" />
@@ -432,6 +432,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
         </state>
       </provider>
     </entry>
